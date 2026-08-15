@@ -1,0 +1,22 @@
+# Arduino
+*.hex
+*.elf
+*.eep
+*.bin
+*.map
+
+# Build files
+build/
+out/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Temporary files
+*.tmp
+*.log
